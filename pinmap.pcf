@@ -1,8 +1,8 @@
 set_io --warn-no-port clock 21
 set_io --warn-no-port reset 47
 
-set_io --warn-no-port io_led1 99
-set_io --warn-no-port io_led2 98
-set_io --warn-no-port io_led3 97
-set_io --warn-no-port io_led4 96
-set_io --warn-no-port io_led5 95
+set_io --warn-no-port led1 99
+set_io --warn-no-port led2 98
+set_io --warn-no-port led3 97
+set_io --warn-no-port led4 96
+set_io --warn-no-port led5 95
